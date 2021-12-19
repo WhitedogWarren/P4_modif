@@ -294,6 +294,20 @@ a:hover {
     margin-bottom: 10px;
     
 }
+.main-quote blockquote {
+    border: none;
+    margin: auto;
+    margin-bottom: 0;
+    padding: 0;
+    max-width: 562px;
+}
+.main-quote p {
+    font-size: 20px;
+    font-style: italic;
+}
+.title-portfolio {
+    font-size: 22px;
+}
 
 .navbar {
     margin-bottom: 0;
