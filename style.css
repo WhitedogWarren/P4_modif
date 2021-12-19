@@ -286,6 +286,14 @@ a:hover {
 #bloc-1-hero h1 {
     font-size: 32px;
 }
+.main-description  {
+    max-width: 613px;
+    margin:auto;
+    font-size: 22px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    
+}
 
 .navbar {
     margin-bottom: 0;
@@ -701,7 +709,8 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: auto;
+    padding-bottom: 2.8em;
 }
 
 h2 {
@@ -780,19 +789,28 @@ h4 {
 #bloc-8 a {
     color: #092151!important;
 }
-
 .tc-white {
-    color: #8b4a2b!important;
+    color: #F3976C!important;
 }
+#bloc-5-cta .tc-white {
+    color: #f7b89d!important;
+    width:fit-content;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, .6);
+}
+
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white {
