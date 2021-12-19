@@ -305,6 +305,13 @@ a:hover {
     font-size: 20px;
     font-style: italic;
 }
+.main-quote figcaption {
+    color: rgba(0, 0, 0, .7);
+}
+#form_1 button:focus {
+    box-shadow: 2px 2px 10px rgb(116, 116, 236)!important;
+    background-color: #c27956;
+}
 .title-portfolio {
     font-size: 22px;
 }
