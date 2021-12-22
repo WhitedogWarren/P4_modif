@@ -871,7 +871,15 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
 }
-
+@media (max-width: 768px) {
+    .bg-banniere {
+        background-image: url("img/la-chouette-agence-banniere-768.webp");
+    }
+    
+    .bg-presentation {
+        background-image: url("img/image-de-presentation-768.webp");
+    }
+}
 
 @media (max-width: 1024px) {
     .bloc {
