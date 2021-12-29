@@ -753,6 +753,11 @@ h2 {
     font-size: 22px;
     line-height: 1.4em;
 }
+@media screen and (max-width: 768px) {
+    h2 {
+        font-size: 16px;
+    }
+}
 
 h3 {
     font-size: 15px;
