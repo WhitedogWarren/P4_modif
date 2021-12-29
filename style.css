@@ -351,6 +351,7 @@ a:hover {
     .portfolio-thumb {
         width: 160px;
         height: 160px;
+        margin: auto;
     }
 }
 
